@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "18A93500-CBF0-4860-AF55-493ECA6D8056"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C543C7CB-72BF-47F9-A426-2CD6F2766D72"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "apple weather api call/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "fetchCity(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C543C7CB-72BF-47F9-A426-2CD6F2766D72 - cafed3b5a58a900b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 () async -&gt; () in apple_weather_api_call.ViewController.fetchCity(__C.UIButton) -&gt; ()"
+                  moduleName = "apple weather api call.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user271259/Desktop/andriod%20&amp;%20apple%20app/apple/apple%20weather%20api%20call/apple%20weather%20api%20call/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110">
+               </Location>
+               <Location
+                  uuid = "C543C7CB-72BF-47F9-A426-2CD6F2766D72 - 414f5c6198298d7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 () async -&gt; () in apple_weather_api_call.ViewController.fetchCity(__C.UIButton) -&gt; ()"
+                  moduleName = "apple weather api call.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user271259/Desktop/andriod%20&amp;%20apple%20app/apple/apple%20weather%20api%20call/apple%20weather%20api%20call/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110">
+               </Location>
+               <Location
+                  uuid = "C543C7CB-72BF-47F9-A426-2CD6F2766D72 - 5831f32826afce0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 () async -&gt; () in apple_weather_api_call.ViewController.fetchCity(__C.UIButton) -&gt; ()"
+                  moduleName = "apple weather api call.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user271259/Desktop/andriod%20&amp;%20apple%20app/apple/apple%20weather%20api%20call/apple%20weather%20api%20call/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110">
+               </Location>
+               <Location
+                  uuid = "C543C7CB-72BF-47F9-A426-2CD6F2766D72 - 60970369e6dd6c06"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 () async -&gt; () in apple_weather_api_call.ViewController.fetchCity(__C.UIButton) -&gt; ()"
+                  moduleName = "apple weather api call.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user271259/Desktop/andriod%20&amp;%20apple%20app/apple/apple%20weather%20api%20call/apple%20weather%20api%20call/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102">
+               </Location>
+               <Location
+                  uuid = "C543C7CB-72BF-47F9-A426-2CD6F2766D72 - 60970369e6dd6d0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 () async -&gt; () in apple_weather_api_call.ViewController.fetchCity(__C.UIButton) -&gt; ()"
+                  moduleName = "apple weather api call.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user271259/Desktop/andriod%20&amp;%20apple%20app/apple/apple%20weather%20api%20call/apple%20weather%20api%20call/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
