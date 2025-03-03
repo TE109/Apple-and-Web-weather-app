@@ -15,18 +15,12 @@ This is a simple weather application built with React that allows users to enter
 
 # Weather Apple App
 
-This project is a simple weather app developed in Swift using UIKit. The app allows users to enter a city name, fetches the current weather data for that city using the OpenWeather API, and displays relevant weather information such as temperature, description, humidity, wind speed, and more.
+This project is a simple weather app developed in Swift. The app allows users to enter a city name, fetches the current weather data for that city and displays relevant weather information such as temperature, description, humidity, wind speed, and more.
 
 # Features
 - Fetches weather data asynchronously using Swift's async/await feature.
-- Displays weather information including:
-- Temperature (in Celsius)
-- Weather description (e.g., sunny, cloudy)
-- Feels-like temperature
-- Humidity
-- Pressure
-- Wind speed
 - User input via a text field for the city name.
+- Uses a Button event to fetch Weather Data 
 
 # Technologies Used
 - Xcode
